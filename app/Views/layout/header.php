@@ -16,9 +16,9 @@
     </div>
     <nav id='nav'>
       <div class='navigation'>
-        <a href=<?= base_url('/') ?>>home</a>
-        <a href=<?= base_url('/profile') ?>>profile</a>
-        <a href=<?= base_url('/contact') ?>>contact</a>
+        <a href='/'>home</a>
+        <a href='/profile'>profile</a>
+        <a href='/contact'>contact</a>
       </div>
     </nav>
     <div id='btn' class='menu'>
