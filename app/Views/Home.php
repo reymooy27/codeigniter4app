@@ -9,6 +9,7 @@
 			<img src="./iconmonstr-instagram-14-240.png" alt="">
 		</a>
 	</div>
+	<div class="fade"></div>
 </div>
 <div class="main2">
 	<h1>Projects</h1>
